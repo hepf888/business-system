@@ -1,3 +1,10 @@
 db=text
 text=localhost
+
 alikey="123789"
+
+wechat="asdfghj"
+
+wechatnew="123456"
+key="236"
+
