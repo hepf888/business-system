@@ -1,2 +1,6 @@
 db=text
 text=localhost
+wechat="asdfghj"
+
+wechatnew="123456"
+
