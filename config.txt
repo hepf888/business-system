@@ -3,4 +3,5 @@ text=localhost
 wechat="asdfghj"
 
 wechatnew="123456"
+key="236"
 
