@@ -1,0 +1,2 @@
+db=text
+text=localhost
